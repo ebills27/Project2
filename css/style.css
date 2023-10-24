@@ -5,10 +5,18 @@ body {
   background-color: Orange;
   overflow: hidden;
 }
-.center{
-  max-width: 500px;
-  margin: auto;
+
+ul,li {
+ text-align: center;
 }
+
+li{
+ text-align: center;
+list-style-type: none;
+padding: 10px;
+margin: 10px;
+}
+
 h1,h2,h3{
   background: White;
   position: relative;
