@@ -5,3 +5,19 @@ body {
   background-color: Orange;
   overflow: hidden;
 }
+.center {
+  max-width: 500px;
+  margin: auto;
+}
+h1,h2,h3,h4,h5,h6{
+  background: White;
+  position: relative;
+  border: 9px solid;
+  border-color: Black;
+  text-align: center;
+  padding: 30px;
+  display: block;
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+}
