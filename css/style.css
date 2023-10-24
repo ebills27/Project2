@@ -12,9 +12,10 @@ ul,li {
 
 li{
  text-align: center;
-list-style-type: none;
-padding: 5px;
-margin: 10px;
+ list-style-type: none;
+ padding: 5px;
+ margin: 5px;
+ width: 20%;
 }
 
 h1,h2,h3{
@@ -23,9 +24,10 @@ h1,h2,h3{
   border: 9px solid;
   border-color: Black;
   text-align: center;
-  padding: 10px;
+  padding: 5px;
   display: block;
   margin: 0px;
   padding: 5px;
   text-align: center;
+  width: 20%;
 }
