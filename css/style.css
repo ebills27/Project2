@@ -11,6 +11,9 @@ body {
 ul,li {
  text-align: center
  list-style-type: none;
+ padding: 5px;
+ margin: 5px;
+ width: 100%;
  background-color: White;
 }
 
