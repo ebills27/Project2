@@ -22,6 +22,7 @@ li{
  padding: 5px;
  margin: 5px;
  width: 100%;
+ float: left;
 }
 
 h1,h2,h3{
