@@ -42,3 +42,8 @@ h1,h2,h3{
 #tempspace {
   margin-top:58px;
 }
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
