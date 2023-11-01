@@ -1,5 +1,7 @@
 body {
   background-color: MediumSeaGreen;
+  padding-left: 400px;
+  padding-right: 400px;
 }
 #main-navbar{
   background-color: Orange;
@@ -31,7 +33,7 @@ h1,h2,h3{
   text-align: center;
   width: 50%;
 }
-.container {
-      justify-content: center; 
-      align-items: center; 
+
+#tempspace {
+  margin-top:58px;
 }
