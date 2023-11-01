@@ -37,17 +37,3 @@ h1,h2,h3{
   text-align: center;
   width: 100%;
 }
-
-#tempspace {
-  margin-top:58px;
-}
-
-.content {
-  max-width: 500px;
-  margin: auto;
-}
-
-img{
-  max-width: 100%;
-  height: auto;
-}
