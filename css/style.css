@@ -10,6 +10,11 @@ body {
 
 ul,li {
  text-align: center
+ list-style-type: none;
+ padding: 5px;
+ margin: 5px;
+ width: 100%;
+ background-color: White;
 }
 
 li{
@@ -17,7 +22,7 @@ li{
  list-style-type: none;
  padding: 5px;
  margin: 5px;
- width: 50%;
+ width: 100%;
 }
 
 h1,h2,h3{
@@ -31,7 +36,7 @@ h1,h2,h3{
   margin: 0px;
   padding: 5px;
   text-align: center;
-  width: 50%;
+  width: 100%;
 }
 
 #tempspace {
