@@ -3,10 +3,6 @@ body {
   padding-left: 400px;
   padding-right: 400px;
 }
-#main-navbar{
-  background-color: Orange;
-  overflow: hidden;
-}
 
 ul, {
  text-align: center
@@ -48,7 +44,7 @@ h1,h2,h3{
   margin: auto;
 }
   #main-navbar {
-  background-color: white;
+  background-color: blue;
   overflow: hidden;
 }
 
