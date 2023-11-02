@@ -8,7 +8,7 @@ body {
   overflow: hidden;
 }
 
-ul,li {
+ul, {
  text-align: center
  list-style-type: none;
  padding: 5px;
