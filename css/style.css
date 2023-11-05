@@ -33,46 +33,23 @@ h1,h2,h3{
   position: relative;
   border-radius: 20px;
 }
+
  #main-navbar-container{
-	
  }
-#main-navbar li{
-font-family: 'Maiden Orange', serif;
-font-size: 35px;
 
-}
-#main-navbar ul {
-  position: relative;
-  float: left;
-  list-style-type: none;
-  left: 50%;
-  display: inline-block;
-  display: text-align-center;
-  margin: 0;
-  padding: 0;
+ul, {
+ text-align: center
+ list-style-type: none;
+ padding: 5px;
+ margin: 5px;
+ width: 100%;
 }
 
-#main-navbar ul li{
-  display: block;
-  float: left;
-  position: relative;
-  margin: 5px;
-  padding: 10px;
-  right: 50%;
-}
-nav{
-  margin: 0 auto;
-  text-align: center;
-}
-
-#main-navbar ul li a {
-  padding: 20px 120px;
-  color: black;
-  display: block;
-  border: 6px solid;
-  text-decoration: none;
-}
-
-#main-navbar ul li a:hover {
-  background-color: LightSlateGrey;
+li{
+ text-align: center;
+ list-style-type: none;
+ padding: 5px;
+ margin: 5px;
+ width: 100%;
+ float: left;
 }
