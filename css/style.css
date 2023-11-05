@@ -22,8 +22,8 @@ h1,h2,h3{
   margin-top:60px;
 }
 
-#main-navbar{
-  background-color: LightSkyBlue;
+  #main-navbar {
+  background-color: blue;
   overflow: hidden;
 }
 
@@ -31,11 +31,38 @@ h1,h2,h3{
   float: left;
   width: 100%;
   position: relative;
-  border-radius: 20px;
 }
 
- #main-navbar-container{
- }
+#main-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+
+#main-navbar ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+
+#main-navbar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+#main-navbar ul li a:hover {
+  background-color: #000;
+}
+
+#onpage {
+  text-decoration: underline overline;
+}
 
 ul, {
  text-align: center
