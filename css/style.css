@@ -1,3 +1,7 @@
+body {
+  background-color: #00539C;
+  font-family: "Times New Roman", Times, serif;
+}
 h1, h2, h3, p, ul, li {
   margin: 10px;
   padding: 0;
@@ -5,7 +9,7 @@ h1, h2, h3, p, ul, li {
 }
 
 #main-navbar {
-  background-color: #2f2f30;
+  background-color: #FBEAEB;
   overflow: hidden;
 }
 
@@ -48,11 +52,6 @@ h1, h2, h3, p, ul, li {
 #main-navbar ul li a:link {
   color: black;
   text-decoration: italic;
-  font-family: "Times New Roman", Times, serif;
-}
-
-body {
-  background-color: #d3d3d3;
   font-family: "Times New Roman", Times, serif;
 }
 
