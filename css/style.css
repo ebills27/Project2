@@ -85,3 +85,20 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+ul, {
+ text-align: center
+ list-style-type: none;
+ padding: 5px;
+ margin: 5px;
+ width: 100%;
+}
+
+li{
+ text-align: center;
+ list-style-type: none;
+ padding: 5px;
+ margin: 5px;
+ width: 100%;
+ float: left;
+}
