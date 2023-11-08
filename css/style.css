@@ -45,7 +45,7 @@ h1, h2, h3, p, ul, li {
 }
 
 #main-navbar ul li a:hover {
-  background-color: white;
+  background-color: #FFD700;
   color: black;
 }
 
@@ -59,7 +59,7 @@ section {
   background-color: #FCFBF4;
   width: 800px;
   display: block;
-  margin: 20px auto;
+  margin: 25px auto;
   padding: 20px;
 }
 li {
