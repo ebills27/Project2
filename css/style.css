@@ -1,7 +1,6 @@
 body {
   background-color: #00539C;
   font-family: "Times New Roman", Times, serif;
-  margin: 50px;
 }
 h1, h2, h3, p, ul, li {
   margin: 10px;
@@ -36,6 +35,7 @@ h1, h2, h3, p, ul, li {
   right: 50%;
   float: left;
   line-height: 0;
+  margin: 20px;
 }
 
 #main-navbar ul li a {
