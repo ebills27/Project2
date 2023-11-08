@@ -1,6 +1,7 @@
 body {
   background-color: #00539C;
   font-family: "Times New Roman", Times, serif;
+  margin: 20px;
 }
 h1, h2, h3, p, ul, li {
   margin: 10px;
